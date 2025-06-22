@@ -22,19 +22,16 @@ void solve()
     ll n, q;
     cin >> n >> q;
     deque<ll> d;
-    vector<ll>v;
     ll mx = 0;
     for(int i = 0; i < n; ++i)
     {
         ll x;
         cin >> x;
         d.push_back(x);
-        v.push_back(x);
         mx = max(mx, x);
     }
 
     vector<pair<ll, ll>> pairs;
-
     while(d.front() != mx)
     {
         ll a = d.front();

@@ -527,8 +527,9 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 516 | 2078 B | Vicious Labyrinth | [Question](https://codeforces.com/problemset/problem/2078/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2078%20B%20-%20Vicious%20Labyrinth)
 | 517 | 2078 C | Breach of Faith | [Question](https://codeforces.com/problemset/problem/2078/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2078%20C%20-%20Breach%20of%20Faith)
 | 518 | 2078 A | Final Verdict | [Question](https://codeforces.com/problemset/problem/2078/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2078%20A%20-%20Final%20Verdict)
-| 519 | 2121 B | Above the Clouds | [Question](https://codeforces.com/problemset/problem/2121/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2121%20B%20-%20Above%20the%20Clouds)
-| 520 | 2121 A | Letter Home | [Question](https://codeforces.com/problemset/problem/2121/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2121%20A%20-%20Letter%20Home)
+| 519 | 2094 G | Chimpanzini Bananini | [Question](https://codeforces.com/problemset/problem/2094/G) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2094%20G%20-%20Chimpanzini%20Bananini)
+| 520 | 2121 B | Above the Clouds | [Question](https://codeforces.com/problemset/problem/2121/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2121%20B%20-%20Above%20the%20Clouds)
+| 521 | 2121 A | Letter Home | [Question](https://codeforces.com/problemset/problem/2121/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2121%20A%20-%20Letter%20Home)
 
 
 

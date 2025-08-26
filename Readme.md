@@ -539,6 +539,8 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 528 | 2094 G | Chimpanzini Bananini | [Question](https://codeforces.com/problemset/problem/2094/G) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2094%20G%20-%20Chimpanzini%20Bananini)
 | 529 | 2121 B | Above the Clouds | [Question](https://codeforces.com/problemset/problem/2121/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2121%20B%20-%20Above%20the%20Clouds)
 | 530 | 2121 A | Letter Home | [Question](https://codeforces.com/problemset/problem/2121/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2121%20A%20-%20Letter%20Home)
+| 531 | 2134 B | Add 0 or K | [Question](https://codeforces.com/problemset/problem/2134/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2134%20B%20-%20Add%200%20or%20K)
+| 532 | 2134 A | Painting With Two Colors | [Question](https://codeforces.com/problemset/problem/2134/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2134%20A%20-%20Painting%20With%20Two%20Colors)
 
 
 

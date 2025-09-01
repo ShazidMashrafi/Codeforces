@@ -542,6 +542,8 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 531 | 2134 B | Add 0 or K | [Question](https://codeforces.com/problemset/problem/2134/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2134%20B%20-%20Add%200%20or%20K)
 | 532 | 2134 A | Painting With Two Colors | [Question](https://codeforces.com/problemset/problem/2134/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2134%20A%20-%20Painting%20With%20Two%20Colors)
 | 533 | 2134 C | Even Larger | [Question](https://codeforces.com/problemset/problem/2134/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2134%20C%20-%20Even%20Larger)
+| 534 | 2136 A | In the Dream | [Question](https://codeforces.com/problemset/problem/2136/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2136%20A%20-%20In%20the%20Dream)
+| 535 | 2136 B | Like the Bitset | [Question](https://codeforces.com/problemset/problem/2136/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2136%20B%20-%20Like%20the%20Bitset)
 
 
 

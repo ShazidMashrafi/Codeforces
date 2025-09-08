@@ -546,6 +546,10 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 535 | 2134 C | Even Larger | [Question](https://codeforces.com/problemset/problem/2134/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2134%20C%20-%20Even%20Larger)
 | 536 | 2136 A | In the Dream | [Question](https://codeforces.com/problemset/problem/2136/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2136%20A%20-%20In%20the%20Dream)
 | 537 | 2136 B | Like the Bitset | [Question](https://codeforces.com/problemset/problem/2136/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2136%20B%20-%20Like%20the%20Bitset)
+| 538 | 2137 D | Replace with Occurrences | [Question](https://codeforces.com/problemset/problem/2137/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2137%20D%20-%20Replace%20with%20Occurrences)
+| 539 | 2137 B | Fun Permutation | [Question](https://codeforces.com/problemset/problem/2137/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2137%20B%20-%20Fun%20Permutation)
+| 540 | 2137 A | Collatz Conjecture | [Question](https://codeforces.com/problemset/problem/2137/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2137%20A%20-%20Collatz%20Conjecture)
+| 541 | 2137 C | Maximum Even Sum | [Question](https://codeforces.com/problemset/problem/2137/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2137%20C%20-%20Maximum%20Even%20Sum)
 
 
 

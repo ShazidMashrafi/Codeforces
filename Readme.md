@@ -550,6 +550,9 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 539 | 2137 B | Fun Permutation | [Question](https://codeforces.com/problemset/problem/2137/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2137%20B%20-%20Fun%20Permutation)
 | 540 | 2137 A | Collatz Conjecture | [Question](https://codeforces.com/problemset/problem/2137/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2137%20A%20-%20Collatz%20Conjecture)
 | 541 | 2137 C | Maximum Even Sum | [Question](https://codeforces.com/problemset/problem/2137/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2137%20C%20-%20Maximum%20Even%20Sum)
+| 542 | 2139 C | Cake Assignment  | [Question](https://codeforces.com/problemset/problem/2139/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2139%20C%20-%20Cake%20Assignment%20)
+| 543 | 2139 A | Maple and Multiplication  | [Question](https://codeforces.com/problemset/problem/2139/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2139%20A%20-%20Maple%20and%20Multiplication%20)
+| 544 | 2139 B | Cake Collection  | [Question](https://codeforces.com/problemset/problem/2139/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2139%20B%20-%20Cake%20Collection%20)
 
 
 

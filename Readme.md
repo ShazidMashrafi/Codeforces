@@ -557,6 +557,10 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 546 | 2144 C | Non-Descending Arrays | [Question](https://codeforces.com/problemset/problem/2144/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2144%20C%20-%20Non-Descending%20Arrays)
 | 547 | 2144 A | Cut the Array | [Question](https://codeforces.com/problemset/problem/2144/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2144%20A%20-%20Cut%20the%20Array)
 | 548 | 2144 B | Maximum Cost Permutation | [Question](https://codeforces.com/problemset/problem/2144/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2144%20B%20-%20Maximum%20Cost%20Permutation)
+| 549 | 2148 D | Destruction of the Dandelion Fields  | [Question](https://codeforces.com/problemset/problem/2148/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2148%20D%20-%20Destruction%20of%20the%20Dandelion%20Fields%20)
+| 550 | 2148 A | Sublime Sequence | [Question](https://codeforces.com/problemset/problem/2148/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2148%20A%20-%20Sublime%20Sequence)
+| 551 | 2148 B | Lasers  | [Question](https://codeforces.com/problemset/problem/2148/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2148%20B%20-%20Lasers%20)
+| 552 | 2148 C | Pacer  | [Question](https://codeforces.com/problemset/problem/2148/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2148%20C%20-%20Pacer%20)
 
 
 

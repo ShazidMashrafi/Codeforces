@@ -554,6 +554,9 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 543 | 2139 C | Cake Assignment  | [Question](https://codeforces.com/problemset/problem/2139/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2139%20C%20-%20Cake%20Assignment%20)
 | 544 | 2139 A | Maple and Multiplication  | [Question](https://codeforces.com/problemset/problem/2139/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2139%20A%20-%20Maple%20and%20Multiplication%20)
 | 545 | 2139 B | Cake Collection  | [Question](https://codeforces.com/problemset/problem/2139/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2139%20B%20-%20Cake%20Collection%20)
+| 546 | 2144 C | Non-Descending Arrays | [Question](https://codeforces.com/problemset/problem/2144/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2144%20C%20-%20Non-Descending%20Arrays)
+| 547 | 2144 A | Cut the Array | [Question](https://codeforces.com/problemset/problem/2144/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2144%20A%20-%20Cut%20the%20Array)
+| 548 | 2144 B | Maximum Cost Permutation | [Question](https://codeforces.com/problemset/problem/2144/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2144%20B%20-%20Maximum%20Cost%20Permutation)
 
 
 

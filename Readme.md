@@ -567,6 +567,9 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 556 | 2148 A | Sublime Sequence | [Question](https://codeforces.com/problemset/problem/2148/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2148%20A%20-%20Sublime%20Sequence)
 | 557 | 2148 B | Lasers  | [Question](https://codeforces.com/problemset/problem/2148/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2148%20B%20-%20Lasers%20)
 | 558 | 2148 C | Pacer  | [Question](https://codeforces.com/problemset/problem/2148/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2148%20C%20-%20Pacer%20)
+| 559 | 2152 C | Triple Removal | [Question](https://codeforces.com/problemset/problem/2152/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2152%20C%20-%20Triple%20Removal)
+| 560 | 2152 B | Catching the Krug | [Question](https://codeforces.com/problemset/problem/2152/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2152%20B%20-%20Catching%20the%20Krug)
+| 561 | 2152 A | Increase or Smash | [Question](https://codeforces.com/problemset/problem/2152/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2152%20A%20-%20Increase%20or%20Smash)
 
 
 

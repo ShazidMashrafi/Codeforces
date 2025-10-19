@@ -570,6 +570,9 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 559 | 2152 C | Triple Removal | [Question](https://codeforces.com/problemset/problem/2152/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2152%20C%20-%20Triple%20Removal)
 | 560 | 2152 B | Catching the Krug | [Question](https://codeforces.com/problemset/problem/2152/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2152%20B%20-%20Catching%20the%20Krug)
 | 561 | 2152 A | Increase or Smash | [Question](https://codeforces.com/problemset/problem/2152/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2152%20A%20-%20Increase%20or%20Smash)
+| 562 | 2160 A | MEX Partition  | [Question](https://codeforces.com/problemset/problem/2160/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2160%20A%20-%20MEX%20Partition%20)
+| 563 | 2160 C | Reverse XOR | [Question](https://codeforces.com/problemset/problem/2160/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2160%20C%20-%20Reverse%20XOR)
+| 564 | 2160 B | Distinct Elements  | [Question](https://codeforces.com/problemset/problem/2160/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2160%20B%20-%20Distinct%20Elements%20)
 
 
 

@@ -571,9 +571,12 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 560 | 2152 C | Triple Removal | [Question](https://codeforces.com/problemset/problem/2152/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2152%20C%20-%20Triple%20Removal)
 | 561 | 2152 B | Catching the Krug | [Question](https://codeforces.com/problemset/problem/2152/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2152%20B%20-%20Catching%20the%20Krug)
 | 562 | 2152 A | Increase or Smash | [Question](https://codeforces.com/problemset/problem/2152/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2152%20A%20-%20Increase%20or%20Smash)
-| 563 | 2160 A | MEX Partition  | [Question](https://codeforces.com/problemset/problem/2160/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2160%20A%20-%20MEX%20Partition%20)
-| 564 | 2160 C | Reverse XOR | [Question](https://codeforces.com/problemset/problem/2160/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2160%20C%20-%20Reverse%20XOR)
-| 565 | 2160 B | Distinct Elements  | [Question](https://codeforces.com/problemset/problem/2160/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2160%20B%20-%20Distinct%20Elements%20)
+| 563 | 2156 C | Maximum GCD on Whiteboard | [Question](https://codeforces.com/problemset/problem/2156/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2156%20C%20-%20Maximum%20GCD%20on%20Whiteboard)
+| 564 | 2156 A | Pizza Time | [Question](https://codeforces.com/problemset/problem/2156/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2156%20A%20-%20Pizza%20Time)
+| 565 | 2156 B | Strange Machine | [Question](https://codeforces.com/problemset/problem/2156/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2156%20B%20-%20Strange%20Machine)
+| 566 | 2160 A | MEX Partition  | [Question](https://codeforces.com/problemset/problem/2160/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2160%20A%20-%20MEX%20Partition%20)
+| 567 | 2160 C | Reverse XOR | [Question](https://codeforces.com/problemset/problem/2160/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2160%20C%20-%20Reverse%20XOR)
+| 568 | 2160 B | Distinct Elements  | [Question](https://codeforces.com/problemset/problem/2160/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2160%20B%20-%20Distinct%20Elements%20)
 
 
 

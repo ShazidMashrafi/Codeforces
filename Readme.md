@@ -587,8 +587,9 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 576 | 2160 C | Reverse XOR | [Question](https://codeforces.com/problemset/problem/2160/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2160%20C%20-%20Reverse%20XOR)
 | 577 | 2160 B | Distinct Elements  | [Question](https://codeforces.com/problemset/problem/2160/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2160%20B%20-%20Distinct%20Elements%20)
 | 578 | 2163 B | Siga ta Kymata | [Question](https://codeforces.com/problemset/problem/2163/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2163%20B%20-%20Siga%20ta%20Kymata)
-| 579 | 2163 C | Monopati  | [Question](https://codeforces.com/problemset/problem/2163/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2163%20C%20-%20Monopati%20)
-| 580 | 2163 A | Souvlaki VS. Kalamaki | [Question](https://codeforces.com/problemset/problem/2163/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2163%20A%20-%20Souvlaki%20VS.%20Kalamaki)
+| 579 | 2170 C | Quotient and Remainder  | [Question](https://codeforces.com/problemset/problem/2170/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2170%20C%20-%20Quotient%20and%20Remainder%20)
+| 580 | 2170 A | Maximum Neighborhood  | [Question](https://codeforces.com/problemset/problem/2170/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2170%20A%20-%20Maximum%20Neighborhood%20)
+| 581 | 2170 B | Addition on a Segment  | [Question](https://codeforces.com/problemset/problem/2170/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2170%20B%20-%20Addition%20on%20a%20Segment%20)
 
 
 

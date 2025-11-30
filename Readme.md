@@ -583,13 +583,15 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 572 | 2156 C | Maximum GCD on Whiteboard | [Question](https://codeforces.com/problemset/problem/2156/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2156%20C%20-%20Maximum%20GCD%20on%20Whiteboard)
 | 573 | 2156 A | Pizza Time | [Question](https://codeforces.com/problemset/problem/2156/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2156%20A%20-%20Pizza%20Time)
 | 574 | 2156 B | Strange Machine | [Question](https://codeforces.com/problemset/problem/2156/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2156%20B%20-%20Strange%20Machine)
-| 575 | 2160 A | MEX Partition  | [Question](https://codeforces.com/problemset/problem/2160/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2160%20A%20-%20MEX%20Partition%20)
-| 576 | 2160 C | Reverse XOR | [Question](https://codeforces.com/problemset/problem/2160/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2160%20C%20-%20Reverse%20XOR)
-| 577 | 2160 B | Distinct Elements  | [Question](https://codeforces.com/problemset/problem/2160/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2160%20B%20-%20Distinct%20Elements%20)
-| 578 | 2163 B | Siga ta Kymata | [Question](https://codeforces.com/problemset/problem/2163/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2163%20B%20-%20Siga%20ta%20Kymata)
-| 579 | 2170 C | Quotient and Remainder  | [Question](https://codeforces.com/problemset/problem/2170/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2170%20C%20-%20Quotient%20and%20Remainder%20)
-| 580 | 2170 A | Maximum Neighborhood  | [Question](https://codeforces.com/problemset/problem/2170/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2170%20A%20-%20Maximum%20Neighborhood%20)
-| 581 | 2170 B | Addition on a Segment  | [Question](https://codeforces.com/problemset/problem/2170/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2170%20B%20-%20Addition%20on%20a%20Segment%20)
+| 575 | 2158 B | Split  | [Question](https://codeforces.com/problemset/problem/2158/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2158%20B%20-%20Split%20)
+| 576 | 2158 A | Suspension | [Question](https://codeforces.com/problemset/problem/2158/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2158%20A%20-%20Suspension)
+| 577 | 2160 A | MEX Partition  | [Question](https://codeforces.com/problemset/problem/2160/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2160%20A%20-%20MEX%20Partition%20)
+| 578 | 2160 C | Reverse XOR | [Question](https://codeforces.com/problemset/problem/2160/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2160%20C%20-%20Reverse%20XOR)
+| 579 | 2160 B | Distinct Elements  | [Question](https://codeforces.com/problemset/problem/2160/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2160%20B%20-%20Distinct%20Elements%20)
+| 580 | 2163 B | Siga ta Kymata | [Question](https://codeforces.com/problemset/problem/2163/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2163%20B%20-%20Siga%20ta%20Kymata)
+| 581 | 2170 C | Quotient and Remainder  | [Question](https://codeforces.com/problemset/problem/2170/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2170%20C%20-%20Quotient%20and%20Remainder%20)
+| 582 | 2170 A | Maximum Neighborhood  | [Question](https://codeforces.com/problemset/problem/2170/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2170%20A%20-%20Maximum%20Neighborhood%20)
+| 583 | 2170 B | Addition on a Segment  | [Question](https://codeforces.com/problemset/problem/2170/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2170%20B%20-%20Addition%20on%20a%20Segment%20)
 
 
 

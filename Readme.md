@@ -592,6 +592,11 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 581 | 2170 C | Quotient and Remainder  | [Question](https://codeforces.com/problemset/problem/2170/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2170%20C%20-%20Quotient%20and%20Remainder%20)
 | 582 | 2170 A | Maximum Neighborhood  | [Question](https://codeforces.com/problemset/problem/2170/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2170%20A%20-%20Maximum%20Neighborhood%20)
 | 583 | 2170 B | Addition on a Segment  | [Question](https://codeforces.com/problemset/problem/2170/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2170%20B%20-%20Addition%20on%20a%20Segment%20)
+| 584 | 2197 A | Blackslex and Password  | [Question](https://codeforces.com/problemset/problem/2197/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2197%20A%20-%20Blackslex%20and%20Password%20)
+| 585 | 2197 E | Blackslex and Girls | [Question](https://codeforces.com/problemset/problem/2197/E) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2197%20E%20-%20Blackslex%20and%20Girls)
+| 586 | 2197 D | Blackslex and Penguin Civilization  | [Question](https://codeforces.com/problemset/problem/2197/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2197%20D%20-%20Blackslex%20and%20Penguin%20Civilization%20)
+| 587 | 2197 C | Blackslex and Number Theory  | [Question](https://codeforces.com/problemset/problem/2197/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2197%20C%20-%20Blackslex%20and%20Number%20Theory%20)
+| 588 | 2197 B | Blackslex and Showering | [Question](https://codeforces.com/problemset/problem/2197/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2197%20B%20-%20Blackslex%20and%20Showering)
 
 
 

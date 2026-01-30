@@ -600,11 +600,14 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 589 | 2184 A | Social Experiment | [Question](https://codeforces.com/problemset/problem/2184/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2184%20A%20-%20Social%20Experiment)
 | 590 | 2188 B | Seats  | [Question](https://codeforces.com/problemset/problem/2188/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2188%20B%20-%20Seats%20)
 | 591 | 2188 A | Divisible Permutation  | [Question](https://codeforces.com/problemset/problem/2188/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2188%20A%20-%20Divisible%20Permutation%20)
-| 592 | 2197 A | Blackslex and Password  | [Question](https://codeforces.com/problemset/problem/2197/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2197%20A%20-%20Blackslex%20and%20Password%20)
-| 593 | 2197 E | Blackslex and Girls | [Question](https://codeforces.com/problemset/problem/2197/E) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2197%20E%20-%20Blackslex%20and%20Girls)
-| 594 | 2197 D | Blackslex and Penguin Civilization  | [Question](https://codeforces.com/problemset/problem/2197/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2197%20D%20-%20Blackslex%20and%20Penguin%20Civilization%20)
-| 595 | 2197 C | Blackslex and Number Theory  | [Question](https://codeforces.com/problemset/problem/2197/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2197%20C%20-%20Blackslex%20and%20Number%20Theory%20)
-| 596 | 2197 B | Blackslex and Showering | [Question](https://codeforces.com/problemset/problem/2197/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2197%20B%20-%20Blackslex%20and%20Showering)
+| 592 | 2193 A | DBMB and the Array | [Question](https://codeforces.com/problemset/problem/2193/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2193%20A%20-%20DBMB%20and%20the%20Array)
+| 593 | 2193 C | Replace and Sum  | [Question](https://codeforces.com/problemset/problem/2193/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2193%20C%20-%20Replace%20and%20Sum%20)
+| 594 | 2193 B | Reverse a Permutation  | [Question](https://codeforces.com/problemset/problem/2193/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2193%20B%20-%20Reverse%20a%20Permutation%20)
+| 595 | 2197 A | Blackslex and Password  | [Question](https://codeforces.com/problemset/problem/2197/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2197%20A%20-%20Blackslex%20and%20Password%20)
+| 596 | 2197 E | Blackslex and Girls | [Question](https://codeforces.com/problemset/problem/2197/E) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2197%20E%20-%20Blackslex%20and%20Girls)
+| 597 | 2197 D | Blackslex and Penguin Civilization  | [Question](https://codeforces.com/problemset/problem/2197/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2197%20D%20-%20Blackslex%20and%20Penguin%20Civilization%20)
+| 598 | 2197 C | Blackslex and Number Theory  | [Question](https://codeforces.com/problemset/problem/2197/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2197%20C%20-%20Blackslex%20and%20Number%20Theory%20)
+| 599 | 2197 B | Blackslex and Showering | [Question](https://codeforces.com/problemset/problem/2197/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2197%20B%20-%20Blackslex%20and%20Showering)
 
 
 

@@ -614,10 +614,15 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 603 | 2197 D | Blackslex and Penguin Civilization  | [Question](https://codeforces.com/problemset/problem/2197/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2197%20D%20-%20Blackslex%20and%20Penguin%20Civilization%20)
 | 604 | 2197 C | Blackslex and Number Theory  | [Question](https://codeforces.com/problemset/problem/2197/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2197%20C%20-%20Blackslex%20and%20Number%20Theory%20)
 | 605 | 2197 B | Blackslex and Showering | [Question](https://codeforces.com/problemset/problem/2197/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2197%20B%20-%20Blackslex%20and%20Showering)
-| 606 | 2203 B | Beautiful Numbers  | [Question](https://codeforces.com/problemset/problem/2203/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2203%20B%20-%20Beautiful%20Numbers%20)
-| 607 | 2203 A | Towers of Boxes | [Question](https://codeforces.com/problemset/problem/2203/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2203%20A%20-%20Towers%20of%20Boxes)
-| 608 | 2203 D | Divisibility Game  | [Question](https://codeforces.com/problemset/problem/2203/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2203%20D%20-%20Divisibility%20Game%20)
-| 609 | 2203 C | Test Generator  | [Question](https://codeforces.com/problemset/problem/2203/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2203%20C%20-%20Test%20Generator%20)
+| 606 | 2200 E | Divisive Battle  | [Question](https://codeforces.com/problemset/problem/2200/E) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2200%20E%20-%20Divisive%20Battle%20)
+| 607 | 2200 C | Specialty String  | [Question](https://codeforces.com/problemset/problem/2200/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2200%20C%20-%20Specialty%20String%20)
+| 608 | 2200 B | Deletion Sort  | [Question](https://codeforces.com/problemset/problem/2200/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2200%20B%20-%20Deletion%20Sort%20)
+| 609 | 2200 D | Portal  | [Question](https://codeforces.com/problemset/problem/2200/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2200%20D%20-%20Portal%20)
+| 610 | 2200 A | Eating Game  | [Question](https://codeforces.com/problemset/problem/2200/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2200%20A%20-%20Eating%20Game%20)
+| 611 | 2203 B | Beautiful Numbers  | [Question](https://codeforces.com/problemset/problem/2203/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2203%20B%20-%20Beautiful%20Numbers%20)
+| 612 | 2203 A | Towers of Boxes | [Question](https://codeforces.com/problemset/problem/2203/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2203%20A%20-%20Towers%20of%20Boxes)
+| 613 | 2203 D | Divisibility Game  | [Question](https://codeforces.com/problemset/problem/2203/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2203%20D%20-%20Divisibility%20Game%20)
+| 614 | 2203 C | Test Generator  | [Question](https://codeforces.com/problemset/problem/2203/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2203%20C%20-%20Test%20Generator%20)
 
 
 

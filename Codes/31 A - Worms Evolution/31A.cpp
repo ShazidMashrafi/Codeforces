@@ -19,7 +19,27 @@ ll power(ll x,ll y,ll m=LLONG_MAX) {ll ans=1;x%=m;while(y){if(y&1)ans=(ans*x)%m;
 
 void solve()
 {
-    
+    int n;
+    cin >> n;
+    vector<pair<int, int>> v;
+    for(int i = 0; i < n; ++i) {
+    	int x;
+    	cin >> x;
+    	v.pb({x, i + 1});
+    }
+    sort(all(v), greater<pair<int, int>>());
+    for(int i = 0; i < n - 2; ++i) {
+    	for(int j = i + 1; j < n - 1; ++j) {
+    		for(int k = j + 1; k < n; ++k) {
+    			if(v[i].ff == v[j].ff + v[k].ff) {
+    				cout << v[i].ss << " " << v[j].ss << " " << v[k].ss << endl;
+    				// cout << v[i].ff << " " << v[j].ff << " " << v[k].ff << endl;
+    				return;
+    			}
+    		}
+    	}
+    }
+    cout << -1 << endl;
 }
 
 signed main()

@@ -653,6 +653,9 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 642 | 2203 D | Divisibility Game  | [Question](https://codeforces.com/problemset/problem/2203/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2203%20D%20-%20Divisibility%20Game%20)
 | 643 | 2203 C | Test Generator  | [Question](https://codeforces.com/problemset/problem/2203/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2203%20C%20-%20Test%20Generator%20)
 | 644 | 2217 B | Flip the Bit (Easy Version) | [Question](https://codeforces.com/problemset/problem/2217/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2217%20B%20-%20Flip%20the%20Bit%20(Easy%20Version))
+| 645 | 2250 C | Rank Subsequence | [Question](https://codeforces.com/problemset/problem/2250/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2250%20C%20-%20Rank%20Subsequence)
+| 646 | 2250 A | Threshold Movement  | [Question](https://codeforces.com/problemset/problem/2250/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2250%20A%20-%20Threshold%20Movement%20)
+| 647 | 2250 B | String Construction | [Question](https://codeforces.com/problemset/problem/2250/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2250%20B%20-%20String%20Construction)
 
 
 

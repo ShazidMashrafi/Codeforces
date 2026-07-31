@@ -1,0 +1,72 @@
+#include <bits/stdc++.h>
+using namespace std;
+#if defined(LOCAL) && !defined(ONLINE_JUDGE)
+#include "debug.h"
+#else
+#define dbg(...)
+#endif
+#define  ll  long long
+#define  endl  '\n'
+#define  ff  first
+#define  ss  second
+#define  pb  push_back
+#define  sz(x)  (int)(x).size()
+#define  all(x)  x.begin(), x.end()
+#define  Dpos(n) fixed << setprecision(n)
+#define  yn(f)  f? cout<<"YES\n":cout<<"NO\n"
+#define  FAST  (ios_base::sync_with_stdio(false), cin.tie(nullptr));
+ll power(ll x,ll y,ll m=LLONG_MAX) {ll ans=1;x%=m;while(y){if(y&1)ans=(ans*x)%m;x=(x*x)%m;y>>=1;}return ans;}
+
+void solve()
+{
+    ll n;
+    cin >> n;
+    vector<ll>x(n), h(n);
+    for(int i = 0; i < n; ++i) {
+        cin >> x[i] >> h[i];
+    }
+    if(n == 1) {
+        cout << 1 << endl;
+        return;
+    }
+
+    ll dp[n][2];
+    dp[0][0] = 1;
+    dp[0][1] = 1;
+    for(int i = 1; i < n; ++i) {
+        ll mx = max(dp[i - 1][0], dp[i - 1][1]);
+        if(x[i] - h[i] > x[i - 1]) {
+            mx = max(mx, 1 + dp[i - 1][0]);
+        }
+        if(x[i] - h[i] > x[i - 1] + h[i - 1]) {
+            mx = max(mx, 1 + dp[i - 1][1]);
+        }
+        dp[i][0] = mx;
+
+        mx = -2e9;
+        if(i == n - 1 || x[i] + h[i] < x[i + 1]) {
+            mx = max(mx, 1 + dp[i - 1][0]);
+            if(x[i - 1] + h[i - 1] < x[i]) {
+                mx = max(mx, 1 + dp[i - 1][1]);
+            }
+        }
+        dp[i][1] = mx;
+
+    }
+    cout << max(dp[n - 1][0], dp[n - 1][1]) << endl;
+}
+
+signed main()
+{
+    FAST;
+    // freopen("input.txt", "r", stdin);
+    // freopen("output.txt", "w", stdout);
+
+    int TCS = 1;
+    // cin >> TCS;
+    for (int TC = 1; TC <= TCS; ++TC)
+    {
+        // cout<<"Case "<<TC<<": ";
+        solve();
+    }
+}

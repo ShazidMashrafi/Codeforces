@@ -2,10 +2,10 @@
 
 This page contains my solutions of Codeforces problems. They are in C++ language.
 
-### Total Solved: 701
+### Total Solved: 703
 
 ## Contents
-- [Standard Problemset (Codes)](#standard-problemset) — **655 problems**
+- [Standard Problemset (Codes)](#standard-problemset) — **657 problems**
 - [GYM Contests](#gym-contests) — **11 problems**
 - [Edu Section](#edu-section) — **31 problems**
 - [Group Contests & Sheets](#group-contests--sheets) — **4 problems**
@@ -13,7 +13,7 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 <div align="center">
 
 <a id="standard-problemset"></a>
-## Standard Problemset (655 solved)
+## Standard Problemset (657 solved)
 #### Sorted by Problem ID
 
 | Index | Problem ID | Problem Name | Question | Solution |
@@ -670,9 +670,11 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 650 | 2203 C | Test Generator | [Question](https://codeforces.com/problemset/problem/2203/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2203%20C%20-%20Test%20Generator%20) |
 | 651 | 2203 D | Divisibility Game | [Question](https://codeforces.com/problemset/problem/2203/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2203%20D%20-%20Divisibility%20Game%20) |
 | 652 | 2217 B | Flip the Bit (Easy Version) | [Question](https://codeforces.com/problemset/problem/2217/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2217%20B%20-%20Flip%20the%20Bit%20(Easy%20Version)) |
-| 653 | 2250 A | Threshold Movement | [Question](https://codeforces.com/problemset/problem/2250/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2250%20A%20-%20Threshold%20Movement%20) |
-| 654 | 2250 B | String Construction | [Question](https://codeforces.com/problemset/problem/2250/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2250%20B%20-%20String%20Construction) |
-| 655 | 2250 C | Rank Subsequence | [Question](https://codeforces.com/problemset/problem/2250/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2250%20C%20-%20Rank%20Subsequence) |
+| 653 | 2232 C1 | Seating Arrangement (Easy Version) | [Question](https://codeforces.com/problemset/problem/2232/C1) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2232%20C1%20-%20Seating%20Arrangement%20(Easy%20Version)%20) |
+| 654 | 2232 C2 | Seating Arrangement (Hard Version) | [Question](https://codeforces.com/problemset/problem/2232/C2) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2232%20C2%20-%20Seating%20Arrangement%20(Hard%20Version)%20) |
+| 655 | 2250 A | Threshold Movement | [Question](https://codeforces.com/problemset/problem/2250/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2250%20A%20-%20Threshold%20Movement%20) |
+| 656 | 2250 B | String Construction | [Question](https://codeforces.com/problemset/problem/2250/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2250%20B%20-%20String%20Construction) |
+| 657 | 2250 C | Rank Subsequence | [Question](https://codeforces.com/problemset/problem/2250/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2250%20C%20-%20Rank%20Subsequence) |
 
 <a id="gym-contests"></a>
 ## GYM Contests (11 solved)

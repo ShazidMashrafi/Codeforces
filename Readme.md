@@ -2,10 +2,10 @@
 
 This page contains my solutions of Codeforces problems. They are in C++ language.
 
-### Total Solved: 713
+### Total Solved: 718
 
 ## Contents
-- [Standard Problemset (Codes)](#standard-problemset) — **665 problems**
+- [Standard Problemset (Codes)](#standard-problemset) — **670 problems**
 - [GYM Contests](#gym-contests) — **13 problems**
 - [Edu Section](#edu-section) — **31 problems**
 - [Group Contests & Sheets](#group-contests--sheets) — **4 problems**
@@ -13,7 +13,7 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 <div align="center">
 
 <a id="standard-problemset"></a>
-## Standard Problemset (665 solved)
+## Standard Problemset (670 solved)
 #### Sorted by Problem ID
 
 | Index | Problem ID | Problem Name | Question | Solution |
@@ -683,6 +683,11 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 663 | 2250 A | Threshold Movement | [Question](https://codeforces.com/problemset/problem/2250/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2250%20A%20-%20Threshold%20Movement%20) |
 | 664 | 2250 B | String Construction | [Question](https://codeforces.com/problemset/problem/2250/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2250%20B%20-%20String%20Construction) |
 | 665 | 2250 C | Rank Subsequence | [Question](https://codeforces.com/problemset/problem/2250/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2250%20C%20-%20Rank%20Subsequence) |
+| 666 | 2266 A | Good Contest | [Question](https://codeforces.com/problemset/problem/2266/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2266%20A%20-%20Good%20Contest%20) |
+| 667 | 2266 B | Three Piles | [Question](https://codeforces.com/problemset/problem/2266/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2266%20B%20-%20Three%20Piles%20) |
+| 668 | 2266 C | AND, OR, Sort! | [Question](https://codeforces.com/problemset/problem/2266/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2266%20C%20-%20AND,%20OR,%20Sort!%20) |
+| 669 | 2266 D | Falling Concrete | [Question](https://codeforces.com/problemset/problem/2266/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2266%20D%20-%20Falling%20Concrete) |
+| 670 | 2266 E | Prime Destruction | [Question](https://codeforces.com/problemset/problem/2266/E) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2266%20E%20-%20Prime%20Destruction) |
 
 <a id="gym-contests"></a>
 ## GYM Contests (13 solved)

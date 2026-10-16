@@ -2,10 +2,10 @@
 
 This page contains my solutions of Codeforces problems. They are in C++ language.
 
-### Total Solved: 727
+### Total Solved: 731
 
 ## Contents
-- [Standard Problemset (Codes)](#standard-problemset) — **675 problems**
+- [Standard Problemset (Codes)](#standard-problemset) — **679 problems**
 - [GYM Contests](#gym-contests) — **17 problems**
 - [Edu Section](#edu-section) — **31 problems**
 - [Group Contests & Sheets](#group-contests--sheets) — **4 problems**
@@ -13,7 +13,7 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 <div align="center">
 
 <a id="standard-problemset"></a>
-## Standard Problemset (675 solved)
+## Standard Problemset (679 solved)
 #### Sorted by Problem ID
 
 | Index | Problem ID | Problem Name | Question | Solution |
@@ -693,6 +693,10 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 673 | 2266 C | AND, OR, Sort! | [Question](https://codeforces.com/problemset/problem/2266/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2266%20C%20-%20AND,%20OR,%20Sort!%20) |
 | 674 | 2266 D | Falling Concrete | [Question](https://codeforces.com/problemset/problem/2266/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2266%20D%20-%20Falling%20Concrete) |
 | 675 | 2266 E | Prime Destruction | [Question](https://codeforces.com/problemset/problem/2266/E) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2266%20E%20-%20Prime%20Destruction) |
+| 676 | 2276 A | Perfect Sandwiches | [Question](https://codeforces.com/problemset/problem/2276/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2276%20A%20-%20Perfect%20Sandwiches) |
+| 677 | 2276 B | Replace and Compress | [Question](https://codeforces.com/problemset/problem/2276/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2276%20B%20-%20Replace%20and%20Compress%20) |
+| 678 | 2276 C | Subarrays | [Question](https://codeforces.com/problemset/problem/2276/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2276%20C%20-%20Subarrays%20) |
+| 679 | 2276 D | Caveman | [Question](https://codeforces.com/problemset/problem/2276/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2276%20D%20-%20Caveman%20) |
 
 <a id="gym-contests"></a>
 ## GYM Contests (17 solved)

@@ -2,11 +2,11 @@
 
 This page contains my solutions of Codeforces problems. They are in C++ language.
 
-### Total Solved: 726
+### Total Solved: 727
 
 ## Contents
 - [Standard Problemset (Codes)](#standard-problemset) — **675 problems**
-- [GYM Contests](#gym-contests) — **16 problems**
+- [GYM Contests](#gym-contests) — **17 problems**
 - [Edu Section](#edu-section) — **31 problems**
 - [Group Contests & Sheets](#group-contests--sheets) — **4 problems**
 
@@ -695,27 +695,28 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 675 | 2266 E | Prime Destruction | [Question](https://codeforces.com/problemset/problem/2266/E) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2266%20E%20-%20Prime%20Destruction) |
 
 <a id="gym-contests"></a>
-## GYM Contests (16 solved)
+## GYM Contests (17 solved)
 #### Sorted by Contest ID
 
 | Index | Problem ID | Problem Name | Question | Solution |
 | :---: | :--------: | :----------: | :------: | :------: |
 | 1 | 100187 B | A Lot of Joy | [Question](https://codeforces.com/gym/100187/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/GYM%20100187/100187%20B%20-%20A%20Lot%20of%20Joy) |
-| 2 | 101242 L | Swap Space | [Question](https://codeforces.com/gym/101242/problem/L) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/GYM%20101242/101242%20L%20-%20Swap%20Space) |
-| 3 | 101401 B | Smiley Faces (B) | [Question](https://codeforces.com/gym/101401/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/GYM%20101401/101401%20B%20-%20Smiley%20Faces%20(B)%20) |
-| 4 | 101401 F | Balloons (A) | [Question](https://codeforces.com/gym/101401/problem/F) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/GYM%20101401/101401%20F%20-%20Balloons%20(A)) |
-| 5 | 101401 H | Data Structures Exam (A) | [Question](https://codeforces.com/gym/101401/problem/H) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/GYM%20101401/101401%20H%20-%20Data%20Structures%20Exam%20(A)%20) |
-| 6 | 102569 D | Lexicographically Minimal Shortest Path | [Question](https://codeforces.com/gym/102569/problem/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/GYM%20102569/102569%20D%20-%20Lexicographically%20Minimal%20Shortest%20Path) |
-| 7 | 103081 A | Gratitude | [Question](https://codeforces.com/gym/103081/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/GYM%20103081/103081%20A%20-%20Gratitude) |
-| 8 | 103081 E | Cakes | [Question](https://codeforces.com/gym/103081/problem/E) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/GYM%20103081/103081%20E%20-%20Cakes%20) |
-| 9 | 103373 B | Aliquot Sum | [Question](https://codeforces.com/gym/103373/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/GYM%20103373/103373%20B%20-%20Aliquot%20Sum) |
-| 10 | 103741 B | Contest Preparation | [Question](https://codeforces.com/gym/103741/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/GYM%20103741/103741%20B%20-%20Contest%20Preparation) |
-| 11 | 103741 M | XOR Almost Everything | [Question](https://codeforces.com/gym/103741/problem/M) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/GYM%20103741/103741%20M%20-%20XOR%20Almost%20Everything) |
-| 12 | 104854 D | District 42 | [Question](https://codeforces.com/gym/104854/problem/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/GYM%20104854/104854%20D%20-%20District%2042) |
-| 13 | 105314 A | Rama and Cats Syndrome | [Question](https://codeforces.com/gym/105314/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/GYM%20105314/105314%20A%20-%20Rama%20and%20Cats%20Syndrome%20) |
-| 14 | 105314 F | Ahmad and Swapping Syndrome | [Question](https://codeforces.com/gym/105314/problem/F) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/GYM%20105314/105314%20F%20-%20Ahmad%20and%20Swapping%20Syndrome%20) |
-| 15 | 105668 B | M(IT)+ | [Question](https://codeforces.com/gym/105668/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/GYM%20105668/105668%20B%20-%20M(IT)+) |
-| 16 | 106179 B | Pseudo Palindrome | [Question](https://codeforces.com/gym/106179/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/GYM%20106179/106179%20B%20-%20Pseudo%20Palindrome) |
+| 2 | 100703 G | Game of numbers | [Question](https://codeforces.com/gym/100703/problem/G) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/GYM%20100703/100703%20G%20-%20Game%20of%20numbers) |
+| 3 | 101242 L | Swap Space | [Question](https://codeforces.com/gym/101242/problem/L) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/GYM%20101242/101242%20L%20-%20Swap%20Space) |
+| 4 | 101401 B | Smiley Faces (B) | [Question](https://codeforces.com/gym/101401/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/GYM%20101401/101401%20B%20-%20Smiley%20Faces%20(B)%20) |
+| 5 | 101401 F | Balloons (A) | [Question](https://codeforces.com/gym/101401/problem/F) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/GYM%20101401/101401%20F%20-%20Balloons%20(A)) |
+| 6 | 101401 H | Data Structures Exam (A) | [Question](https://codeforces.com/gym/101401/problem/H) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/GYM%20101401/101401%20H%20-%20Data%20Structures%20Exam%20(A)%20) |
+| 7 | 102569 D | Lexicographically Minimal Shortest Path | [Question](https://codeforces.com/gym/102569/problem/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/GYM%20102569/102569%20D%20-%20Lexicographically%20Minimal%20Shortest%20Path) |
+| 8 | 103081 A | Gratitude | [Question](https://codeforces.com/gym/103081/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/GYM%20103081/103081%20A%20-%20Gratitude) |
+| 9 | 103081 E | Cakes | [Question](https://codeforces.com/gym/103081/problem/E) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/GYM%20103081/103081%20E%20-%20Cakes%20) |
+| 10 | 103373 B | Aliquot Sum | [Question](https://codeforces.com/gym/103373/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/GYM%20103373/103373%20B%20-%20Aliquot%20Sum) |
+| 11 | 103741 B | Contest Preparation | [Question](https://codeforces.com/gym/103741/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/GYM%20103741/103741%20B%20-%20Contest%20Preparation) |
+| 12 | 103741 M | XOR Almost Everything | [Question](https://codeforces.com/gym/103741/problem/M) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/GYM%20103741/103741%20M%20-%20XOR%20Almost%20Everything) |
+| 13 | 104854 D | District 42 | [Question](https://codeforces.com/gym/104854/problem/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/GYM%20104854/104854%20D%20-%20District%2042) |
+| 14 | 105314 A | Rama and Cats Syndrome | [Question](https://codeforces.com/gym/105314/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/GYM%20105314/105314%20A%20-%20Rama%20and%20Cats%20Syndrome%20) |
+| 15 | 105314 F | Ahmad and Swapping Syndrome | [Question](https://codeforces.com/gym/105314/problem/F) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/GYM%20105314/105314%20F%20-%20Ahmad%20and%20Swapping%20Syndrome%20) |
+| 16 | 105668 B | M(IT)+ | [Question](https://codeforces.com/gym/105668/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/GYM%20105668/105668%20B%20-%20M(IT)+) |
+| 17 | 106179 B | Pseudo Palindrome | [Question](https://codeforces.com/gym/106179/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/GYM%20106179/106179%20B%20-%20Pseudo%20Palindrome) |
 
 <a id="edu-section"></a>
 ## Edu Section (31 solved)

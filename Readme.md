@@ -2,11 +2,11 @@
 
 This page contains my solutions of Codeforces problems. They are in C++ language.
 
-### Total Solved: 738
+### Total Solved: 739
 
 ## Contents
 - [Standard Problemset (Codes)](#standard-problemset) — **682 problems**
-- [GYM Contests](#gym-contests) — **21 problems**
+- [GYM Contests](#gym-contests) — **22 problems**
 - [Edu Section](#edu-section) — **31 problems**
 - [Group Contests & Sheets](#group-contests--sheets) — **4 problems**
 
@@ -702,7 +702,7 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 682 | 2276 D | Caveman | [Question](https://codeforces.com/problemset/problem/2276/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/Codes/2276%20D%20-%20Caveman%20) |
 
 <a id="gym-contests"></a>
-## GYM Contests (21 solved)
+## GYM Contests (22 solved)
 #### Sorted by Contest ID
 
 | Index | Problem ID | Problem Name | Question | Solution |
@@ -727,7 +727,8 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 18 | 105314 A | Rama and Cats Syndrome | [Question](https://codeforces.com/gym/105314/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/105314%20A%20-%20Rama%20and%20Cats%20Syndrome%20) |
 | 19 | 105314 F | Ahmad and Swapping Syndrome | [Question](https://codeforces.com/gym/105314/problem/F) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/105314%20F%20-%20Ahmad%20and%20Swapping%20Syndrome%20) |
 | 20 | 105668 B | M(IT)+ | [Question](https://codeforces.com/gym/105668/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/105668%20B%20-%20M(IT)+) |
-| 21 | 106179 B | Pseudo Palindrome | [Question](https://codeforces.com/gym/106179/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/106179%20B%20-%20Pseudo%20Palindrome) |
+| 21 | 105822 B | Kites | [Question](https://codeforces.com/gym/105822/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/105822%20B%20-%20Kites) |
+| 22 | 106179 B | Pseudo Palindrome | [Question](https://codeforces.com/gym/106179/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/main/GYMS/106179%20B%20-%20Pseudo%20Palindrome) |
 
 <a id="edu-section"></a>
 ## Edu Section (31 solved)
